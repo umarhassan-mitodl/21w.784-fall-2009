@@ -1,0 +1,11 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 5957b7d9-33bf-301b-1210-8883c16dccf5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
+  name: Units
+  pageRef: /pages/units/
+  weight: 20
