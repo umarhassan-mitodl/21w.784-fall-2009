@@ -5,8 +5,6 @@ description: Structured text file supporting a student-written reaction paper on
 file: /courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/5176952eb6c306197ab69f1af7ae8134_Campaign_Ad_INF_2009.ni.ni
 file_size: 43334
 file_type: application/ni
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -19,11 +17,11 @@ More remarkable than the election protests in Theran in June 2009 was the embrac
 Readings
 --------
 
-Holtz, Shel, Havens, John C., and Johnson, Lynne D. "Profile and Privacy: Transparency in Social Networks." In _Tactical Transparency: How Leaders Can Leverage Social Media to Maximize Value and Build their Brand_. Hoboken, NJ: Jossey-Bass, 2008. ISBN: 9780470293706. \[Preview a version of this book in [Google Books](http://books.google.com/books?id=K0iRv1CeNF8C&dq=Tactical+transparency+:+how+leaders+can+leverage+social+media+to+maximize+value+and+build+their+brand&printsec=frontcover&source=bl&ots=uMTK_6x1F0&sig=POJcQDgIS08Msm_4r6ne-dVBMS0&hl=en&ei=fo79SoSoM8LJlAfTl-i).\]
+Holtz, Shel, Havens, John C., and Johnson, Lynne D. "Profile and Privacy: Transparency in Social Networks." In _Tactical Transparency: How Leaders Can Leverage Social Media to Maximize Value and Build their Brand_. Hoboken, NJ: Jossey-Bass, 2008. ISBN: 9780470293706. \[Preview a version of this book in {{% resource_link "0290c909-5513-4876-bf8c-841473440e0f" "Google Books" %}}.\]
 
-Starr, Amory. "Be the Media: Independent Media Centers." In _Global Revolt: A Guide to the Movements Against Globalization_. London, UK: Zed Books, 2005. ISBN: 9781842774830. \[Preview a version of this book in [Google Books](http://books.google.com/books?id=gU55Y5D83wcC&printsec=frontcover&dq=Global+revolt+:+a+guide+to+the+movements+against+globalization#v=onepage&q=&f=false).\]
+Starr, Amory. "Be the Media: Independent Media Centers." In _Global Revolt: A Guide to the Movements Against Globalization_. London, UK: Zed Books, 2005. ISBN: 9781842774830. \[Preview a version of this book in {{% resource_link "8577c088-d9b6-4722-8c0e-1f968c8d2587" "Google Books" %}}.\]
 
 Resources
 ---------
 
-[The Iranian Election on Twitter: The First Eighteen Days](http://www.webecologyproject.org/2009/06/iran-election-on-twitter/), Web Ecology Project. (Researching quantized social interaction)
+{{% resource_link "bd1d9338-df6a-472c-b147-08c30bf06281" "The Iranian Election on Twitter: The First Eighteen Days" %}}, Web Ecology Project. (Researching quantized social interaction)

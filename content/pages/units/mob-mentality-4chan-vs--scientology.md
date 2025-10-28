@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -19,15 +17,15 @@ On-line bulletin boards are a dominant text-based forum for knowledge sharing an
 Readings
 --------
 
-Scott Jason, [BBS: The Documentary](http://www.bbsdocumentary.com/), Documentary Information Archive. (Splash page for the magnus opus documentary on the history of BBSes.)
+Scott Jason, {{% resource_link "cf05d1dc-7621-4355-b771-be5d640ff429" "BBS: The Documentary" %}}, Documentary Information Archive. (Splash page for the magnus opus documentary on the history of BBSes.)
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262681216) Rheingold, Howard. "Grassroots Groupminds." In [_The Virtual Community: Homesteading on the Electronic Frointier_](https://mitpress.mit.edu/9780262681216). Cambridge, MA: MIT Press, 2000. ISBN: 9780262681216.
+{{% resource_link "607cb91e-9a1e-4ce1-8adf-6b878735c5c5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rheingold, Howard. "Grassroots Groupminds." In {{% resource_link "607cb91e-9a1e-4ce1-8adf-6b878735c5c5" "_The Virtual Community: Homesteading on the Electronic Frointier_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262681216.
 
-Scott Jason, [Textfiles: History](http://www.textfiles.com/history/). (A set of autobiographical documents reflecting on life on-line before widespread connectivity. Together, they present a bit of a sense of what BBSes were like when there were no alternatives. These short documents are of varying quality. Covers topics like trolling, phreaking, hacking, asynchronous chat, modems, baudrate, compression, files, script kiddies, ascii art, and everything else a kid with a 1200cps modem would care about. Good 1st-person background material for contemporary forums.)
+Scott Jason, {{% resource_link "0c3c910f-6ea1-4ed1-819d-630ae407a765" "Textfiles: History" %}}. (A set of autobiographical documents reflecting on life on-line before widespread connectivity. Together, they present a bit of a sense of what BBSes were like when there were no alternatives. These short documents are of varying quality. Covers topics like trolling, phreaking, hacking, asynchronous chat, modems, baudrate, compression, files, script kiddies, ascii art, and everything else a kid with a 1200cps modem would care about. Good 1st-person background material for contemporary forums.)
 
-Lindsay, [project. DENSHA](http://www.rinji.tv/densha/), rinji.tv. (A page on Densha Otoko which contains English translations of the original Japanese threads.)
+Lindsay, {{% resource_link "e1a0892f-ec8e-4bfa-9eac-7bb28ad58c7e" "project. DENSHA" %}}, rinji.tv. (A page on Densha Otoko which contains English translations of the original Japanese threads.)
 
-Schirrmacher Frank, [The age of the informavore](http://www.edge.org/3rd_culture/schirrmacher09/schirrmacher09_index.html), Edge Foundation, Inc.
+Schirrmacher Frank, {{% resource_link "587d8987-9fc6-4112-8140-dc7017daf01a" "The age of the informavore" %}}, Edge Foundation, Inc.
 
 Assignments (Student Work)
 --------------------------

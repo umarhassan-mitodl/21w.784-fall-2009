@@ -5,8 +5,6 @@ description: 'Example of student work: a reaction paper on World War II in propa
 file: /courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/a4db3f4e5b40aabecd458ca322ae69fb_MIT21W_784F09_War_Story_IN.pdf
 file_size: 87995
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

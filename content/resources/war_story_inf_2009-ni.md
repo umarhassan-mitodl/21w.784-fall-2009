@@ -5,8 +5,6 @@ description: Structured text file supporting a student-written reaction paper on
 file: /courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/7d5734d24dd0a2a7dc38a27756c758d9_War_Story_INF_2009.ni.ni
 file_size: 42762
 file_type: application/ni
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

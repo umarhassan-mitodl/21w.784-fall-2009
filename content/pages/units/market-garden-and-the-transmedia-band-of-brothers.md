@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -34,6 +32,6 @@ Knightley, Phillip. "Never Again: 1940-45." In _The First Casualty: From the Cri
 Resources
 ---------
 
-[Interview James "Maggie" Megellas about Operation Market Garden 1944](http://web.archive.org/web/20090501190932/http://allthewayto.wordpress.com/2008/09/22/interview-james-maggie-megellas-about-operation-market-garden-1944/), WordPress.com. (This interview discusses Operation Market Garden 1944. The interview is with LTC James "Maggie" Megellas who is a World War II veteran of the 82nd airborne division. The interview took place during the press event of the game Brothers in Arms Hell's Highway at the Wings of Liberation museum in the Netherlands.)
+{{% resource_link "aaa84bff-6b5d-46d6-8333-9513dfe3d322" "Interview James \"Maggie\" Megellas about Operation Market Garden 1944" %}}, WordPress.com. (This interview discusses Operation Market Garden 1944. The interview is with LTC James "Maggie" Megellas who is a World War II veteran of the 82nd airborne division. The interview took place during the press event of the game Brothers in Arms Hell's Highway at the Wings of Liberation museum in the Netherlands.)
 
 _Band of Brothers_. TV mini-series, 2001. Filmstrip.

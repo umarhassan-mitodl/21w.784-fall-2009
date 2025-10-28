@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -19,6 +17,6 @@ This unit looks at the way local radio broadcasts were used to exacerbate the Rw
 Resources
 ---------
 
-[100 Days of Rwanda: April 6 - July 14, 2004](http://www.silent-edge.org/mt/rwanda/)
+{{% resource_link "690bc981-f608-4cea-b985-f5945050b9a4" "100 Days of Rwanda: April 6 - July 14, 2004" %}}
 
-[Jaar, Alfredo. "Let There Be Light: The Rwanda Project: 1994-1998](http://imaginarymuseum.org/MHV/PZImhv/JaarRwandaProject.html)"
+{{% resource_link "58a99daf-e989-4256-b73a-4e9b0734c700" "Jaar, Alfredo. \"Let There Be Light: The Rwanda Project: 1994-1998" %}}"

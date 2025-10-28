@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -19,7 +17,7 @@ War games can be read as simulations of conflict. By examining games about confl
 Readings
 --------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, Katie, and Zimmerman, Eric. "The Rules of Digital Games." In [_Rules of Play: Game Design Fundamentals_](https://mitpress.mit.edu/9780262240451). Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
+{{% resource_link "6164a149-c7a0-40a9-b86f-c74fc5c28de7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, Katie, and Zimmerman, Eric. "The Rules of Digital Games." In {{% resource_link "6164a149-c7a0-40a9-b86f-c74fc5c28de7" "_Rules of Play: Game Design Fundamentals_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
 
 Montfort, Nick. "Combat in Context." _The International Journal of Computer Game Research_ 6, no. 1 (December 2006): 1604-7982.
 
@@ -28,19 +26,19 @@ Winnicott, D. W. "Playing: A Theoretical Statement." In _Playing and Reality_. N
 Resources
 ---------
 
-Mattel Electronics, [Intellivision Service Manual (Model 2609) (PDF - 1.6MB)](http://data.manualslib.com/pdf4/82/8126/812558-mattel/intellivision_2609.pdf?20136c0a58a771c45beecb8ff3108938).
+Mattel Electronics, {{% resource_link "709a9737-9d8e-4fd5-9e7e-d75e0d115903" "Intellivision Service Manual (Model 2609) (PDF - 1.6MB)" %}}.
 
-PXL Creative, [Intel 8048](http://www.cpushack.net/chippics/Intel/8x48/IntelC8748_2.html), The CPU Shack.  
+PXL Creative, {{% resource_link "74982140-3cb5-4ed3-955f-a2f5927c29ad" "Intel 8048" %}}, The CPU Shack.  
 (Specs and features of Intel's most common chip)
 
-Boris Dan, ['Dan B.s O2 Tech Page](http://www.atarihq.com/danb/o2.shtml).  
+Boris Dan, {{% resource_link "3bd6206f-5dae-41b9-9b20-636ed84213e4" "'Dan B.s O2 Tech Page" %}}.  
 (Great technical information on O2)
 
-[Zork I: The Great Underground Empire](http://uploads.ungrounded.net/188000/188334_ZFlash.swf).  
+{{% resource_link "8f31c3be-9e16-45c4-a5f9-02102f9fcabb" "Zork I: The Great Underground Empire" %}}.  
 (Port of Zork I to flash)
 
-Daly Liza, [Inform 7](http://inform7.com/), Threepress Consulting.  
+Daly Liza, {{% resource_link "90389e3c-748c-479f-9755-1e93ca95bfb9" "Inform 7" %}}, Threepress Consulting.  
 (Homepage of Inform 7, a natural language interactive fiction development environment)
 
-Nelson Graham, [Inform 7: the Program](http://worrydream.com/refs/Nelson%20-%20Inform%207%20-%20The%20Program.pdf).  
+Nelson Graham, {{% resource_link "16e38346-2a91-42e3-9e03-3e19474e5cb3" "Inform 7: the Program" %}}.  
 (Commented rule sets used by the Inform 7 compiler)

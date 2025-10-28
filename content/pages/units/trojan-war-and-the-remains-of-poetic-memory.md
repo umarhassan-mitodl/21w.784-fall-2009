@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -21,7 +19,7 @@ Readings
 
 Logue, Christopher. _All Day Permanent Red_. New York, NY: Farrar, Strauss, & Giroux, 2003, pp. 3-53. ISBN: 9780374102951.
 
-Homer. _The Illiad_. New York, NY: Penguin Books, 2000. \[[Download from The Internet Classics Archive](http://classics.mit.edu/Homer/iliad.html)\]
+Homer. _The Illiad_. New York, NY: Penguin Books, 2000. \[{{% resource_link "914d04a2-b734-4a26-b0d7-99135affcd64" "Download from The Internet Classics Archive" %}}\]
 
 Shannon, Claude. _The Mathematical Theory of Communication_. Urbana Champaign, IL: University of Illinois Press, 1963, pp. 29-35. ISBN: 9780252725463.
 

@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -21,15 +19,15 @@ Readings
 
 Bertalanffy, Ludwig Von. "The Meaning of General System Theory." In _General System Theory_. New York, NY: George Braziller, 1976. ISBN: 9780807604533.
 
-Ovid. "Narcissus and Echo." In _Selections from Ovid's Metamorphoses_. New York, NY: Longman Publishing Group, 1987. ISBN: 9780582367487. \[Preview a version of this book in [Google Books](http://books.google.com/books?id=UNfAdlZDjaYC&lpg=PP1&dq=metamorphosis%20narcissus%20ovid&pg=PA104#v=onepage&q=&f=false).\]
+Ovid. "Narcissus and Echo." In _Selections from Ovid's Metamorphoses_. New York, NY: Longman Publishing Group, 1987. ISBN: 9780582367487. \[Preview a version of this book in {{% resource_link "e8e93230-8d82-4bc2-8c5f-923ec153cc79" "Google Books" %}}.\]
 
 Resources
 ---------
 
-[Modern History Sourcebook: G. W. F. Hegel: The Dialectic of History, 1812 - 1820](http://www.fordham.edu/halsall/mod/hegel-summary.html) (Two brief selections on dialectical method according to G. W. F. Hegel.)
+{{% resource_link "2aacccfa-e484-414a-a863-1c7e0c2fb193" "Modern History Sourcebook: G. W. F. Hegel: The Dialectic of History, 1812 - 1820" %}} (Two brief selections on dialectical method according to G. W. F. Hegel.)
 
-Blunden, Andy, [Hegel's Science of Logic](http://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm), Hegel-by-HyperText. (Full text of Hegel's 1831 opus.)
+Blunden, Andy, {{% resource_link "4d5e35f5-132c-49d5-8a92-1cc523ea32ad" "Hegel's Science of Logic" %}}, Hegel-by-HyperText. (Full text of Hegel's 1831 opus.)
 
-Morris, Errol. "[The Case of the Inappropriate Alarm Clock (Part 1)](http://opinionator.blogs.nytimes.com/2009/10/18/the-case-of-the-inappropriate-alarm-clock-part-1/)." _The New York Times_, October 18, 2009. (NYTimes opinion piece by documentary filmmaker, Errol Morris.)
+Morris, Errol. "{{% resource_link "5521dd42-a62d-42a0-a271-8c69300ed21e" "The Case of the Inappropriate Alarm Clock (Part 1)" %}}." _The New York Times_, October 18, 2009. (NYTimes opinion piece by documentary filmmaker, Errol Morris.)
 
-[Plea to ban Employers trawling Facebook](http://technology.timesonline.co.uk/tol/news/tech_and_web/article3613896.ece)
+{{% resource_link "c6a86a5d-632a-4dc6-a17e-546ea91be1f8" "Plea to ban Employers trawling Facebook" %}}

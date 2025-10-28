@@ -32,30 +32,30 @@ Popp, Robert, Armor, and Thomas, et al. "Countering Terrorism Through Informatio
 Resources
 ---------
 
-[Overview of the Information Awareness Office](http://www.fas.org/irp/agency/dod/poindexter.html), Defense Advanced Research Projects Agency. (Poindexter's 2002 remarks on the DARPA TIA project)
+{{% resource_link "6112ceff-8d9c-47dc-a825-5e142fd12c6f" "Overview of the Information Awareness Office" %}}, Defense Advanced Research Projects Agency. (Poindexter's 2002 remarks on the DARPA TIA project)
 
-Programming with Punched Cards, Dale Fisk. (Dale Fisk on a programmer's perspective on first encountering punch cards (2005)) ([PDF - 1.6MB](http://www.columbia.edu/acis/history/fisk.pdf))
+Programming with Punched Cards, Dale Fisk. (Dale Fisk on a programmer's perspective on first encountering punch cards (2005)) ({{% resource_link "0150bdba-b3c0-4069-bc44-09b63274284e" "PDF - 1.6MB" %}})
 
-[On Data Ownership in a Networked World](http://www.bitquill.net/blog/?p=7)
+{{% resource_link "6c237618-c9a6-4959-9c93-200f66212168" "On Data Ownership in a Networked World" %}}
 
-Google. "Google Health – Product Overview." August 19, 2009. YouTube. Accessed May 9, 2010. [http://www.youtube.com/watch?v=yNe6-p4G7Ik](http://www.youtube.com/watch?v=yNe6-p4G7Ik)
+Google. "Google Health – Product Overview." August 19, 2009. YouTube. Accessed May 9, 2010. {{% resource_link "d2fcc6f8-489d-4a96-a982-fbae31c7bb18" "http://www.youtube.com/watch?v=yNe6-p4G7Ik" %}}
 
-[History of Census Tabulation and Processing](https://www.census.gov/history/www/innovations/technology/tabulation_and_processing.html)
+{{% resource_link "732bde1e-7569-4123-9543-8fcb021ceb65" "History of Census Tabulation and Processing" %}}
 
-[Google Flu Trends](http://www.google.org/flutrends/about/how.html)
+{{% resource_link "d188c7e0-63f0-4af3-b285-d3ba62cf1c64" "Google Flu Trends" %}}
 
-[Electronic Privacy Information Center](http://epic.org/)
+{{% resource_link "5b693581-7741-449c-b7be-6d0f2e334398" "Electronic Privacy Information Center" %}}
 
-[Personal Data Ownership](http://www.ddmcd.com/search?q=Personal+Data+Ownership)
+{{% resource_link "31182540-2a52-4e16-9737-309682122f90" "Personal Data Ownership" %}}
 
-[Computing History by Frank da Cruz](http://www.columbia.edu/acis/history)
+{{% resource_link "92f63e11-6de4-40bc-b05c-323b39492e20" "Computing History by Frank da Cruz" %}}
 
-["5 Ways You're Secretly Being Monitored"](https://www.cracked.com/article_150_5-ways-youre-secretly-being-monitored.html)
+{{% resource_link "1cee21ac-ca2b-49c5-aa89-851e6f784b50" "\"5 Ways You're Secretly Being Monitored\"" %}}
 
-[Privacy and Data Ownership Do Not Apply](http://regulargeek.com/2008/05/16/privacy-and-data-ownership-do-not-apply/)
+{{% resource_link "55e23556-c5bb-4672-9255-88241eb28296" "Privacy and Data Ownership Do Not Apply" %}}
 
-[Identity Theft and the Licensing of Personal Information](http://www.ddmcd.com/managing-technology/identity-theft-and-the-licensing-of-personal-information.html)
+{{% resource_link "d89e44b9-77c1-409a-a613-1017c6291bde" "Identity Theft and the Licensing of Personal Information" %}}
 
-[A different solution for personal data](http://web.archive.org/web/20080827221250/http://www.practicalist.com/mt/archives/000477.html)
+{{% resource_link "40103ae5-15cf-4989-b2bf-893f6fb75a5e" "A different solution for personal data" %}}
 
-[It's Not about Data Ownership](http://www.freedom-to-tinker.com/blog/felten/scoblefacebook-incident-its-not-about-data-ownership)
+{{% resource_link "5f5222e6-0555-4d58-b18d-27b03d7a19bc" "It's Not about Data Ownership" %}}

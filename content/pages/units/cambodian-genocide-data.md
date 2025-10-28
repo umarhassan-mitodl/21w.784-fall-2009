@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Units
@@ -19,8 +17,8 @@ This unit looks at the way databases are being used to aggregate and organize tr
 Resources
 ---------
 
-[Cambodian Genocide Program](http://gsp.yale.edu/)
+{{% resource_link "61ac98b8-80eb-4971-b4fc-c6cf10b5e0a5" "Cambodian Genocide Program" %}}
 
-[Documentation Center of Cambodia](http://www.dccam.org/)
+{{% resource_link "80aac27f-37cb-4403-a2eb-f401b060205b" "Documentation Center of Cambodia" %}}
 
-[US Air Force Bomb Data Vietnam War 1965-75](https://data.world/datamil/vietnam-war-thor-data/discuss/vietnam-war-thor-data/gftdgyjz)
+{{% resource_link "042768c6-a584-4bca-abd6-1fb1d552b61c" "US Air Force Bomb Data Vietnam War 1965-75" %}}
